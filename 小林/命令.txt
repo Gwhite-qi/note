@@ -1,0 +1,7 @@
+右键点击git bash here
+git add .
+git commit -m "注释"
+git push origin master
+
+
+新建仓库完，会有一个ssh地址（以.git结尾），然后在本地命令行写git remote add origin git@github.com:Gwhite-qi/note.git
